@@ -1,0 +1,106 @@
+.header {
+    background-image: url(../images/tree.jpg);
+    max-width: 100%;
+    width: 100%;
+    height: 324px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-li {
+    color: white;
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
+    flex-direction: row;
+    margin: auto;
+}
+.title {
+    color: white;
+}
+.satauri {
+    color: white;
+    font-size: 50px;
+}
+.satauri2 {
+    color: white;
+    font-size: small;
+}
+.ruka {
+    max-width: 1088px;
+    width: 100%;
+    height: 290px;
+    margin: 0 auto;
+    justify-content: space-between;
+    display: flex;
+    margin-top: 40px;
+}
+.gverdi {
+    width: 377px;
+    font-size: 42px;
+    margin-bottom: 57px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.input_description {
+    width: 721px;
+    height: 289px;
+    padding: 25px;
+}
+.paragrafi {
+    width: 377px;
+    font-size: 42px;
+    margin-bottom: 57px;
+}
+.input_subject {
+    width: 360px;
+    height: 60px;
+}
+.input-surname {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.button {
+    margin-top: 15px;
+    background-color: blue;
+    color: white;
+}
+.paragrafi2 {
+    max-width: 1090px;
+    width: 100%;   
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.blokimeore {
+    max-width: 1090px;
+    width: 100%;   
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.saxeli {
+    width: 60px;
+    height: 60px;
+    border-radius: 53px;
+    margin: 0 auto;
+    background-color: blue;
+    position: relative;
+    padding: 22px;
+    margin-bottom: 20px;
+}
+.child {
+    position: absolute;
+}
+.ragaca {
+    color: rgb(65, 62, 62);
+    margin-top: 15px;
+}
+.jpg {
+    width: 320px;
+    background-color: silver;
+    margin-top: 40px;
+    margin-bottom: 103px;
+}
+.centra {
+    text-align: center;
+}
