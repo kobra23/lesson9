@@ -104,3 +104,101 @@
 .centra {
     text-align: center;
 }
+.h3 {
+     color: blue;
+      margin-left: 145px;
+      margin-top: 30px;
+}
+.fotoebisbloki {
+    max-width: 1370px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.pklasi {
+    max-width: 550px;
+    font-size: 45px;
+    margin-left: 150px;
+    margin-top: 15px;
+    margin-bottom: 60px;
+}
+.samkutxedi:last-child {
+    background-color: burlywood;
+}
+.footera {
+    background-color: black;
+    position: relative;
+} 
+.divfutera {
+    position: relative;
+    display: flex;
+     justify-content: space-between;
+    padding: 50px 140px;
+}
+.futersatauri {
+    font-size: 45px;
+    color: white;
+}
+.futerisparagrafi {
+     width: 257px;
+     color: white;
+     font-size: 22px;
+}
+.samkutxedi:first-child {
+    background-color: white;
+}
+.samkutxedi  {
+    width: 40px;
+    height: 40px;
+    border-radius: 55px;
+    position: relative;
+    padding: 15px;
+}
+.facbook {
+    color: white;
+    position: absolute;
+}
+.google {
+    color: white;
+    position: absolute;
+}
+.twitter {
+    position: absolute;
+    color: white;
+}
+.qartveli {
+    display: flex;
+    margin-top: 25px;
+}
+.s {
+    background-color: blueviolet;
+    margin-left: 11px;
+    margin-right: 11px;
+}
+.link {
+    color: blue;
+    font-size: 25px;
+    line-height: 30px;
+}
+.mnishvnelovanilink {
+    color: white;
+    font-size: 30px;
+    margin-bottom: 40px;
+    position: absolute;
+}
+.taimi {
+    display: flex;
+}
+.taimi2 {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.contact-gmail {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+.nomerimagaria {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
