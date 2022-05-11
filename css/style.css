@@ -176,29 +176,3 @@
     margin-left: 11px;
     margin-right: 11px;
 }
-.link {
-    color: blue;
-    font-size: 25px;
-    line-height: 30px;
-}
-.mnishvnelovanilink {
-    color: white;
-    font-size: 30px;
-    margin-bottom: 40px;
-    position: absolute;
-}
-.taimi {
-    display: flex;
-}
-.taimi2 {
-    margin-left: 50px;
-    margin-top: 50px;
-}
-.contact-gmail {
-    color: rgb(255, 255, 255);
-    font-size: 30px;
-}
-.nomerimagaria {
-    margin-top: 25px;
-    margin-bottom: 25px;
-}
